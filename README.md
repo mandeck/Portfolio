@@ -37,5 +37,5 @@ Former Mechanical Engineer bringing systems thinking, specification analysis,
 and methodical verification processes to software quality engineering.
 
 ## Contact
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/mandeck
 - Email: mikeandeck@gmail.com
