@@ -1,41 +1,103 @@
-# QA-Engineer-portfolio
-A showcase of my experience as a QA Engineer
+# QA Engineer Portfolio — Michael Andeck
 
-# QA Portfolio — Michael Andeck
+QA portfolio showcasing projects completed through the TripleTen Quality Assurance Engineering program. Focus areas include manual testing, Python-based test automation, API testing, SQL, and defect reporting.
 
-Quality Engineer transitioning from Mechanical Engineering, with experience in 
-test automation, API testing, manual testing, and database validation.
+With a background in Mechanical Engineering, I bring experience in technical problem-solving, requirements analysis, and systematic verification to software quality assurance.
 
-## Skills
-- **Automation:** Selenium, pytest, Python
-- **API Testing:** Postman
-- **Manual Testing:** Test case design, bug reporting, equivalence partitioning, boundary value analysis
-- **Database:** SQL
-- **Tools:** PyCharm, Jira, Android Studio, Chrome DevTools, Git
+## Skills & Tools
+
+- **Test Automation:** Python, Selenium WebDriver, Pytest, Page Object Model (POM), assertions, explicit waits
+- **Manual Testing:** Test case design, test execution, exploratory testing, equivalence partitioning, boundary value analysis, requirements analysis
+- **API Testing:** Postman, HTTP methods, status codes, positive and negative testing, request and response validation
+- **Database Testing:** SQL queries, filtering, aggregation, NULL handling
+- **Mobile Testing:** Android Studio emulator, UI validation, notification testing, network connectivity testing
+- **Defect Management & Tools:** Jira, Chrome DevTools, PyCharm, Git, GitHub
 
 ## Projects
 
-### Urban Routes Automation Suite
-Selenium/pytest automation suite built against a ride-sharing web application.
-Tests cover address field validation, UI interactions, and end-to-end booking flows.
-  [View demo](#) | [View code](#)
+### 1. Urban Routes — Selenium Automation Suite
 
-### Manual Testing Artifacts
-Test cases, bug reports, and test plans produced during structured QA coursework
-covering web and mobile applications.
+Developed a Python-based automated test suite using Selenium WebDriver and Pytest to validate a ride-booking workflow.
 
-### API Testing
-Postman collections validating backend endpoints including courier registration
-and deletion, with HTTP status code verification.
+**Key contributions:**
+- Implemented the Page Object Model to organize page locators and reusable interaction methods.
+- Automated workflow steps including route selection, service selection, phone number entry, payment details, driver comments, and additional order options.
+- Used assertions and explicit waits to validate application behavior and synchronize interactions.
+- Separated test data from test logic for easier maintenance.
+- Integrated a provided helper function for retrieving SMS confirmation codes during testing.
 
-### SQL Exercises
-Queries demonstrating data retrieval, filtering, aggregation, and NULL handling
-against product and order datasets.
+**Results:** All 8 automated tests passed consistently across multiple runs.
+
+**Technologies:** Python, Selenium WebDriver, Pytest
+
+[View source code](#)
+
+### 2. Urban Scooter — QA Capstone Project
+
+Completed a multi-platform testing project covering a scooter rental and delivery application across web, mobile, and backend API functionality.
+
+**Web application testing**
+- Designed and executed 66 test cases covering customer information fields, positive and negative inputs, equivalence classes, and boundary values.
+- Tested in Google Chrome and Opera at a specified screen resolution.
+- Documented defects with reproduction steps, expected and actual results, environments, severity, and supporting evidence.
+
+**Mobile application testing**
+- Designed and executed 35 test cases using an Android Studio emulator configured as a Pixel 5 running Android 12 (API 31).
+- Tested notification behavior, application states, and connectivity-related error handling.
+- Validated interface behavior and documented discrepancies against requirements.
+
+**Backend API testing**
+- Designed and executed 9 Postman test cases for courier creation and deletion.
+- Validated HTTP status codes, response messages, required parameters, and negative scenarios.
+
+**Deliverables:** Structured test cases, execution results, and Jira defect reports across web, mobile, and API testing.
+
+**Technologies:** Jira, Postman, Chrome DevTools, Android Studio, Google Sheets
+
+### 3. Manual Web Application Testing
+
+Performed structured manual testing of web application functionality using requirements-driven test design and execution.
+
+**Key skills demonstrated:**
+- Requirements analysis and identification of testable conditions.
+- Positive and negative test case design.
+- Equivalence partitioning and boundary value analysis.
+- UI and field validation.
+- Clear defect documentation with reproducible steps and expected versus actual behavior.
+
+**Tools:** Jira, Chrome DevTools, Google Sheets
+
+### 4. API Testing with Postman
+
+Created and executed API test cases to verify backend behavior against documented requirements.
+
+**Key skills demonstrated:**
+- Constructing HTTP requests using appropriate methods and request data.
+- Testing successful and unsuccessful operations.
+- Validating status codes, response bodies, and error handling.
+- Identifying discrepancies between expected and actual API behavior.
+
+**Tools:** Postman
+
+### 5. SQL Practice & Database Queries
+
+Completed SQL exercises focused on querying and analyzing structured datasets.
+
+**Key skills demonstrated:**
+- Retrieving and filtering records.
+- Aggregating data.
+- Handling NULL values.
+- Writing queries to validate and interpret database information.
+
+**Language:** SQL
 
 ## Background
-Former Mechanical Engineer bringing systems thinking, specification analysis,
-and methodical verification processes to software quality engineering.
+
+Mechanical Engineering graduate transitioning into software quality assurance. My engineering background provides a foundation in analytical problem-solving, interpreting specifications, and methodical verification.
+
+Through the TripleTen QA Engineering program, I completed projects involving manual web and mobile testing, API validation, SQL, and Python/Selenium automation.
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/mandeck
-- Email: mikeandeck@gmail.com
+
+- **LinkedIn:** [linkedin.com/in/mandeck](https://www.linkedin.com/in/mandeck/)
+- **Email:** mikeandeck@gmail.com
