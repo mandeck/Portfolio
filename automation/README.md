@@ -29,6 +29,35 @@ The test suite covers key steps in the ride-ordering workflow, including enterin
 - Used assertions to verify expected application behavior
 - Separated test data from test logic
 
+## Environment & Execution Requirements
+
+This project was developed and tested against the Urban Routes application hosted in the TripleTen course environment.
+
+The application is accessed through a temporary server URL, which must be entered in `Input_data_UrbanRoutes.py` before running the tests.
+
+The hosted application is provided for educational purposes and is not guaranteed to remain available permanently. Consequently, the automation code can be reviewed independently, but executing the test suite requires access to a compatible, running Urban Routes environment.
+
+## Running the Tests
+
+To run the test suite, a compatible Urban Routes application environment must first be available.
+
+1. Clone or download this repository.
+2. Create and activate a Python virtual environment.
+3. Install the project dependencies:
+
+   ```bash
+   pip install -r automation/requirements.txt
+   ```
+
+4. Open `automation/Input_data_UrbanRoutes.py` and enter the active Urban Routes server URL.
+5. Run the test suite from the repository root:
+
+   ```bash
+   python -m pytest automation/Test_Suite_UrbanRoutes.py -v
+   ```
+
+**Note:** The test execution steps depend on the availability of the hosted application and its compatibility with the automation code.
+
 ## Implementation Notes
 
 A brief fixed delay was used in the recorded demonstration to make application interactions easier to follow. The test automation also uses explicit waits to handle element availability and synchronization.
