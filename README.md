@@ -26,11 +26,12 @@ Developed a Python-based automated test suite using Selenium WebDriver and Pytes
 - Separated test data from test logic for easier maintenance.
 - Integrated a provided helper function for retrieving SMS confirmation codes during testing.
 
-**Results:** All 8 automated tests passed consistently across multiple runs.
+**Results:** All 8 automated tests passed.
 
 **Technologies:** Python, Selenium WebDriver, Pytest
 
-[View source code](#)
+- [View source code](https://github.com/mandeck/Portfolio/tree/main/automation)
+- [Watch project demo](https://www.youtube.com/watch?v=pGnAUSi8O0I)
 
 ### 2. Urban Scooter — QA Capstone Project
 
@@ -54,42 +55,28 @@ Completed a multi-platform testing project covering a scooter rental and deliver
 
 **Technologies:** Jira, Postman, Chrome DevTools, Android Studio, Google Sheets
 
-### 3. Manual Web Application Testing
+### 3. Additional QA & Technical Practice
 
-Performed structured manual testing of web application functionality using requirements-driven test design and execution.
+Additional coursework and exercises provided experience with:
 
-**Key skills demonstrated:**
+**Manual Web Application Testing**
 - Requirements analysis and identification of testable conditions.
 - Positive and negative test case design.
 - Equivalence partitioning and boundary value analysis.
 - UI and field validation.
-- Clear defect documentation with reproducible steps and expected versus actual behavior.
+- Defect documentation with reproducible steps and expected versus actual behavior.
 
-**Tools:** Jira, Chrome DevTools, Google Sheets
-
-### 4. API Testing with Postman
-
-Created and executed API test cases to verify backend behavior against documented requirements.
-
-**Key skills demonstrated:**
+**API Testing with Postman**
 - Constructing HTTP requests using appropriate methods and request data.
 - Testing successful and unsuccessful operations.
 - Validating status codes, response bodies, and error handling.
 - Identifying discrepancies between expected and actual API behavior.
 
-**Tools:** Postman
-
-### 5. SQL Practice & Database Queries
-
-Completed SQL exercises focused on querying and analyzing structured datasets.
-
-**Key skills demonstrated:**
+**SQL & Database Queries**
 - Retrieving and filtering records.
 - Aggregating data.
 - Handling NULL values.
 - Writing queries to validate and interpret database information.
-
-**Language:** SQL
 
 ## Background
 
