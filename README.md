@@ -33,6 +33,12 @@ Developed a Python-based automated test suite using Selenium WebDriver and Pytes
 - [View source code](https://github.com/mandeck/Portfolio/tree/main/automation)
 - [Watch project demo](https://www.youtube.com/watch?v=pGnAUSi8O0I)
 
+**Environment & Execution Requirements:**
+
+This project was developed and tested against the Urban Routes application hosted in the TripleTen course environment. The application is accessed through a temporary server URL, which must be entered in `Input_data_UrbanRoutes.py` before running the tests.
+
+The hosted application is provided for educational purposes and is not guaranteed to remain available permanently. Consequently, the automation code can be reviewed independently, but executing the test suite requires access to a compatible, running Urban Routes environment.
+
 ### 2. Urban Scooter — QA Capstone Project
 
 Completed a multi-platform testing project covering a scooter rental and delivery application across web, mobile, and backend API functionality.
