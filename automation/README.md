@@ -10,9 +10,9 @@ The video demonstrates the Urban Routes application, the Selenium automation cod
 
 ## Project Overview
 
-This project involved automating end-to-end tests for the Urban Routes web application using Python and Selenium WebDriver.
+This project involved developing automated end-to-end tests for the Urban Routes web application using Python and Selenium WebDriver.
 
-The test suite covers key parts of the user workflow, including entering an address, selecting services, providing contact and payment information, and configuring ride options.
+The test suite covers key steps in the ride-ordering workflow, including entering pickup and destination addresses, selecting a service, providing contact and payment information, and configuring additional ride options.
 
 ## Tools & Technologies
 
@@ -23,15 +23,15 @@ The test suite covers key parts of the user workflow, including entering an addr
 
 ## Testing Approach
 
-- Organized automation code using the Page Object Model
-- Used reusable methods to interact with application elements
-- Implemented locators and explicit waits
-- Added assertions to verify expected behavior
+- Structured automation code using the Page Object Model
+- Created reusable methods for interacting with application elements
+- Implemented element locators and explicit waits
+- Used assertions to verify expected application behavior
 - Separated test data from test logic
 
 ## Implementation Notes
 
-A short sleep delay was included in the test execution for demonstration purposes, allowing application interactions to be more easily followed in the recorded video. In routine automated execution, unnecessary fixed delays would be removed in favor of appropriate explicit waits.
+A brief fixed delay was used in the recorded demonstration to make application interactions easier to follow. The test automation also uses explicit waits to handle element availability and synchronization.
 
 ## Test Results
 
