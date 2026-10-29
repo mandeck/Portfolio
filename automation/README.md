@@ -2,9 +2,11 @@
 
 ## Demo Video
 
-[Watch the Urban Routes Selenium Automation Demo](https://youtu.be/pGnAUSi8O0I)
+[Watch the Urban Routes Selenium Automation Demo](https://www.youtube.com/watch?v=pGnAUSi8O0I&vq=hd720)
 
 The video demonstrates the Urban Routes application, the Selenium automation code, test execution, and the final results.
+
+*For best viewing quality, select 720p in YouTube's playback settings if it is not selected automatically.*
 
 ## Project Overview
 
@@ -26,6 +28,10 @@ The test suite covers key parts of the user workflow, including entering an addr
 - Implemented locators and explicit waits
 - Added assertions to verify expected behavior
 - Separated test data from test logic
+
+## Implementation Notes
+
+A short sleep delay was included in the test execution for demonstration purposes, allowing application interactions to be more easily followed in the recorded video. In routine automated execution, unnecessary fixed delays would be removed in favor of appropriate explicit waits.
 
 ## Test Results
 
