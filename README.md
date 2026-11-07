@@ -67,12 +67,20 @@ API testing of the Urban Grocers application, focusing on request validation, po
 - Tested XML requests for fast delivery calculations.
 - Designed positive, negative, and boundary test scenarios.
 - Validated response status codes, messages, and returned data.
-- Documented bugs and test execution results.
+- Reported 26 bugs in Jira, with expected vs. actual results and severity.
 
-**Results:** 71 test cases: 35 passed, 36 failed, with 26 distinct bugs reported.
+**Test Execution Results:**
 
+| Testing Area | Test Cases | Passed | Failed |
+|---|---:|---:|---:|
+| Add products to a kit (JSON) | 29 | 15 | 14 |
+| Delivery cost and availability (XML) | 42 | 20 | 22 |
+| **Total** | **71** | **35** | **36** |
+
+- [View Project Summary (PDF)](urban-grocers-api-testing/Urban_Grocers_API_Testing.pdf)
 - [View Project Documentation](urban-grocers-api-testing/README.md)
-- [View API Test Cases & Results (Excel)](urban-grocers-api-testing/test-cases/Urban_Grocers_API_Test_Cases_and_Results.xlsx)
+- [View Test Cases & Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1nli_9__ca63m2QNUNBTMO1zkod3_ACSSJDeliMh9iR0/edit?usp=sharing)
+- [View Test Cases & Results (Excel)](urban-grocers-api-testing/test-cases/Urban_Grocers_API_Test_Cases_and_Results.xlsx)
 
 ---
 
