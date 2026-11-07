@@ -57,12 +57,13 @@ Several failed test cases can point to the same bug, so the number of bugs is lo
 - **Android Studio Emulator**: mobile application testing
 - **Figma**: design reference for visual checks
 - **Jira**: defect tracking
-- **Google Sheets** (with an Excel copy): test cases and results
+- **[Google Sheets](https://docs.google.com/spreadsheets/d/1wVyFged6BfLGgCZzT05uGpz-AAIJJPeVSsDufTOTyM0/edit?usp=sharing)** (with an Excel copy): test cases and results
 
 ## Project Deliverables
 
 - `Urban_Scooter_QA_Portfolio.pdf`: summary of the project with results, defects and screenshots.
-- `test-cases/`: the Excel copy of the workbook, with three worksheets: Web Testing, Mobile Testing and API Testing.
+- [Google Sheets workbook](https://docs.google.com/spreadsheets/d/1wVyFged6BfLGgCZzT05uGpz-AAIJJPeVSsDufTOTyM0/edit?usp=sharing): test cases and results, with three worksheets: Web Testing, Mobile Testing and API Testing.
+- `test-cases/`: the Excel copy of the same workbook.
 
 ## Notes
 
