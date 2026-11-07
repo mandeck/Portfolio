@@ -61,7 +61,7 @@ Several failed test cases can point to the same bug, so the number of bugs is lo
 
 ## Project Deliverables
 
-- `Urban_Scooter_QA_Portfolio.pdf`: summary of the project with results, defects and screenshots.
+- [`Urban_Scooter_Project_Summary.pdf`](Urban_Scooter_Project_Summary.pdf): summary of the project with results, defects and screenshots.
 - [Google Sheets workbook](https://docs.google.com/spreadsheets/d/1wVyFged6BfLGgCZzT05uGpz-AAIJJPeVSsDufTOTyM0/edit?usp=sharing): test cases and results, with three worksheets: Web Testing, Mobile Testing and API Testing.
 - `test-cases/`: the Excel copy of the same workbook.
 
