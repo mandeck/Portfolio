@@ -1,6 +1,6 @@
 # Michael Andeck | QA Engineer Portfolio
 
-Mechanical Engineering graduate transitioning into Quality Assurance, with hands-on training in manual testing, API testing, and test automation through the TripleTen QA Engineering program.
+Mechanical Engineering graduate transitioning into Quality Assurance, with hands-on training in manual testing, API testing, and test automation through the TripleTen QA Engineer program.
 
 This portfolio showcases practical testing projects, test documentation, and automation work.
 
@@ -28,27 +28,29 @@ Automated testing of the Urban Routes application using Selenium and Pytest.
 
 ### 2. Urban Scooter — Web, Mobile & API Testing
 
-**Manual Testing | Web Testing | Mobile Testing | API Testing | Jira**
+**Manual Testing | Web Testing | Mobile Testing | API Testing | Postman | Jira**
 
 Tested the Urban Scooter application across web, mobile, and API environments.
 
 **What I worked on:**
-- Analyzed requirements and developed test cases.
-- Executed web tests using Chrome and Opera.
-- Tested mobile application functionality using an Android emulator.
-- Performed API testing and documented results.
-- Identified and documented defects.
+- Analyzed requirements and designed test cases using equivalence partitioning and boundary value analysis.
+- Tested a web order form in Chrome and Opera.
+- Tested an Android app on an emulator, including notifications and offline behavior.
+- Tested courier API endpoints in Postman.
+- Reported 22 bugs in Jira, with expected vs. actual results and severity.
 
 **Test Execution Results:**
 
-| Testing Area | Results |
-|---|---|
-| Web — Chrome | 55 passed / 11 failed |
-| Web — Opera | 55 passed / 11 failed |
-| Mobile | 15 passed / 17 failed / 3 skipped |
-| API | 8 passed / 1 failed |
+| Testing Area | Test Cases | Passed | Failed | Skipped |
+|---|---:|---:|---:|---:|
+| Web (same result in Chrome and Opera) | 65 | 54 | 11 | 0 |
+| Mobile | 35 | 15 | 17 | 3 |
+| API | 9 | 8 | 1 | 0 |
+| **Total** | **109** | **77** | **29** | **3** |
 
+- [View Project Summary (PDF)](urban-scooter-qa/Urban_Scooter_Project_Summary.pdf)
 - [View Project Documentation](urban-scooter-qa/README.md)
+- [View Test Cases & Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1wVyFged6BfLGgCZzT05uGpz-AAIJJPeVSsDufTOTyM0/edit?usp=sharing)
 - [View Test Cases & Results (Excel)](urban-scooter-qa/test-cases/UrbanScooter_QA_Test_Cases.xlsx)
 
 ---
@@ -65,7 +67,9 @@ API testing of the Urban Grocers application, focusing on request validation, po
 - Tested XML requests for fast delivery calculations.
 - Designed positive, negative, and boundary test scenarios.
 - Validated response status codes, messages, and returned data.
-- Documented defects and test execution results.
+- Documented bugs and test execution results.
+
+**Results:** 71 test cases: 35 passed, 36 failed, with 26 distinct bugs reported.
 
 - [View Project Documentation](urban-grocers-api-testing/README.md)
 - [View API Test Cases & Results (Excel)](urban-grocers-api-testing/test-cases/Urban_Grocers_API_Test_Cases_and_Results.xlsx)
@@ -76,7 +80,7 @@ API testing of the Urban Grocers application, focusing on request validation, po
 
 | Area | Skills & Technologies |
 |---|---|
-| Manual Testing | Test case design, requirements analysis, exploratory testing, boundary value analysis, equivalence partitioning |
+| Manual Testing | Test case design, requirements analysis, boundary value analysis, equivalence partitioning |
 | API Testing | Postman, HTTP methods, status codes, JSON, XML, positive and negative testing |
 | Test Automation | Python, Selenium WebDriver, Pytest, Page Object Model, explicit waits |
 | Database Testing | SQL fundamentals, queries, filtering, aggregation |
@@ -85,9 +89,9 @@ API testing of the Urban Grocers application, focusing on request validation, po
 
 ## Professional Background
 
-Bachelor's degree in Mechanical Engineering with previous engineering experience, including FAA-approval testing of helicopter safety products.
+Bachelor's degree in Mechanical Engineering with previous engineering experience, including load testing and validation of helicopter safety products in support of airworthiness certification.
 
-Completed the TripleTen QA Engineering program, gaining practical experience in manual testing, API testing, test documentation, and automation.
+Completed the TripleTen QA Engineer program, gaining practical experience in manual testing, API testing, test documentation, and automation.
 
 ## Contact
 
