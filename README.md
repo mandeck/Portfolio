@@ -1,96 +1,95 @@
-# QA Engineer Portfolio — Michael Andeck
+# Michael Andeck | QA Engineer Portfolio
 
-QA portfolio showcasing projects completed through the TripleTen Quality Assurance Engineering program. Focus areas include manual testing, Python-based test automation, API testing, SQL, and defect reporting.
+Mechanical Engineering graduate transitioning into Quality Assurance, with hands-on training in manual testing, API testing, and test automation through the TripleTen QA Engineering program.
 
-With a background in Mechanical Engineering, I bring experience in technical problem-solving, requirements analysis, and systematic verification to software quality assurance.
+This portfolio showcases practical testing projects, test documentation, and automation work.
+
+## Portfolio Projects
+
+### 1. Urban Routes — Test Automation
+
+**Python | Selenium WebDriver | Pytest | Page Object Model**
+
+Automated testing of the Urban Routes application using Selenium and Pytest.
+
+**What I worked on:**
+- Organized test code using the Page Object Model.
+- Separated test data, page objects, and test execution logic.
+- Implemented reusable methods and explicit waits.
+- Created and executed automated test cases.
+
+**Results:** 8 automated tests passed.
+
+- [View Source Code](automation/)
+- [View Project Documentation](automation/README.md)
+- [Watch Test Automation Demo](https://www.youtube.com/watch?v=pGnAUSi8O0I)
+
+---
+
+### 2. Urban Scooter — Web, Mobile & API Testing
+
+**Manual Testing | Web Testing | Mobile Testing | API Testing | Jira**
+
+Tested the Urban Scooter application across web, mobile, and API environments.
+
+**What I worked on:**
+- Analyzed requirements and developed test cases.
+- Executed web tests using Chrome and Opera.
+- Tested mobile application functionality using an Android emulator.
+- Performed API testing and documented results.
+- Identified and documented defects.
+
+**Test Execution Results:**
+
+| Testing Area | Results |
+|---|---|
+| Web — Chrome | 55 passed / 11 failed |
+| Web — Opera | 55 passed / 11 failed |
+| Mobile | 15 passed / 17 failed / 3 skipped |
+| API | 8 passed / 1 failed |
+
+- [View Project Documentation](urban-scooter-qa/README.md)
+- [View Test Cases & Results (Excel)](urban-scooter-qa/test-cases/UrbanScooter_QA_Test_Cases.xlsx)
+
+---
+
+### 3. Urban Grocers — API Testing
+
+**Postman | REST APIs | JSON | XML | apiDoc | Jira**
+
+API testing of the Urban Grocers application, focusing on request validation, positive and negative scenarios, and boundary conditions.
+
+**What I worked on:**
+- Analyzed API documentation and endpoint requirements.
+- Tested JSON requests for kit-product functionality.
+- Tested XML requests for fast delivery calculations.
+- Designed positive, negative, and boundary test scenarios.
+- Validated response status codes, messages, and returned data.
+- Documented defects and test execution results.
+
+- [View Project Documentation](urban-grocers-api-testing/README.md)
+- [View API Test Cases & Results (Excel)](urban-grocers-api-testing/test-cases/Urban_Grocers_API_Test_Cases_and_Results.xlsx)
+
+---
 
 ## Skills & Tools
 
-- **Test Automation:** Python, Selenium WebDriver, Pytest, Page Object Model (POM), assertions, explicit waits
-- **Manual Testing:** Test case design, test execution, exploratory testing, equivalence partitioning, boundary value analysis, requirements analysis
-- **API Testing:** Postman, HTTP methods, status codes, positive and negative testing, request and response validation
-- **Database Testing:** SQL queries, filtering, aggregation, NULL handling
-- **Mobile Testing:** Android Studio emulator, UI validation, notification testing, network connectivity testing
-- **Defect Management & Tools:** Jira, Chrome DevTools, PyCharm, Git, GitHub
+| Area | Skills & Technologies |
+|---|---|
+| Manual Testing | Test case design, requirements analysis, exploratory testing, boundary value analysis, equivalence partitioning |
+| API Testing | Postman, HTTP methods, status codes, JSON, XML, positive and negative testing |
+| Test Automation | Python, Selenium WebDriver, Pytest, Page Object Model, explicit waits |
+| Database Testing | SQL fundamentals, queries, filtering, aggregation |
+| Defect Management | Jira, defect documentation, expected vs. actual results |
+| Development Tools | Git, GitHub, PyCharm, Chrome DevTools, Android Studio Emulator |
 
-## Projects
+## Professional Background
 
-### 1. Urban Routes — Selenium Automation Suite
+Bachelor's degree in Mechanical Engineering with previous engineering experience, including FAA-approval testing of helicopter safety products.
 
-Developed a Python-based automated test suite using Selenium WebDriver and Pytest to validate a ride-booking workflow.
-
-**Key contributions:**
-- Implemented the Page Object Model to organize page locators and reusable interaction methods.
-- Automated workflow steps including route selection, service selection, phone number entry, payment details, driver comments, and additional order options.
-- Used assertions and explicit waits to validate application behavior and synchronize interactions.
-- Separated test data from test logic for easier maintenance.
-- Integrated a provided helper function for retrieving SMS confirmation codes during testing.
-
-**Results:** All 8 automated tests passed.
-
-**Technologies:** Python, Selenium WebDriver, Pytest
-
-- [View source code](https://github.com/mandeck/Portfolio/tree/main/automation)
-- [Watch project demo](https://www.youtube.com/watch?v=pGnAUSi8O0I)
-
-**Environment & Execution Requirements:**
-
-This project was developed and tested against the Urban Routes application hosted in the TripleTen course environment. The application is accessed through a temporary server URL, which must be entered in `Input_data_UrbanRoutes.py` before running the tests.
-
-The hosted application is provided for educational purposes and is not guaranteed to remain available permanently. Consequently, the automation code can be reviewed independently, but executing the test suite requires access to a compatible, running Urban Routes environment.
-
-### 2. Urban Scooter — QA Capstone Project
-
-Completed a multi-platform testing project covering a scooter rental and delivery application across web, mobile, and backend API functionality.
-
-**Web application testing**
-- Designed and executed 66 test cases covering customer information fields, positive and negative inputs, equivalence classes, and boundary values.
-- Tested in Google Chrome and Opera at a specified screen resolution.
-- Documented defects with reproduction steps, expected and actual results, environments, severity, and supporting evidence.
-
-**Mobile application testing**
-- Designed and executed 35 test cases using an Android Studio emulator configured as a Pixel 5 running Android 12 (API 31).
-- Tested notification behavior, application states, and connectivity-related error handling.
-- Validated interface behavior and documented discrepancies against requirements.
-
-**Backend API testing**
-- Designed and executed 9 Postman test cases for courier creation and deletion.
-- Validated HTTP status codes, response messages, required parameters, and negative scenarios.
-
-**Deliverables:** Structured test cases, execution results, and Jira defect reports across web, mobile, and API testing.
-
-**Technologies:** Jira, Postman, Chrome DevTools, Android Studio, Google Sheets
-
-### 3. Additional QA & Technical Practice
-
-Additional coursework and exercises provided experience with:
-
-**Manual Web Application Testing**
-- Requirements analysis and identification of testable conditions.
-- Positive and negative test case design.
-- Equivalence partitioning and boundary value analysis.
-- UI and field validation.
-- Defect documentation with reproducible steps and expected versus actual behavior.
-
-**API Testing with Postman**
-- Constructing HTTP requests using appropriate methods and request data.
-- Testing successful and unsuccessful operations.
-- Validating status codes, response bodies, and error handling.
-- Identifying discrepancies between expected and actual API behavior.
-
-**SQL & Database Queries**
-- Retrieving and filtering records.
-- Aggregating data.
-- Handling NULL values.
-- Writing queries to validate and interpret database information.
-
-## Background
-
-Mechanical Engineering graduate transitioning into software quality assurance. My engineering background provides a foundation in analytical problem-solving, interpreting specifications, and methodical verification.
-
-Through the TripleTen QA Engineering program, I completed projects involving manual web and mobile testing, API validation, SQL, and Python/Selenium automation.
+Completed the TripleTen QA Engineering program, gaining practical experience in manual testing, API testing, test documentation, and automation.
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/mandeck](https://www.linkedin.com/in/mandeck/)
+- **LinkedIn:** [Michael Andeck](https://www.linkedin.com/in/mandeck/)
 - **Email:** mikeandeck@gmail.com
