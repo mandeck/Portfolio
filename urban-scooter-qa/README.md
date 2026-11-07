@@ -6,8 +6,7 @@ This project was completed as the final project of the TripleTen QA Engineer pro
 
 The work covered analyzing requirements, designing and executing test cases, recording expected and actual results, and reporting defects in Jira.
 
-A written summary of the project, with screenshots and findings, is in [`Urban_Scooter_QA_Portfolio.pdf`](Urban_Scooter_QA_Portfolio.pdf).
-
+A written summary of the project, with screenshots and findings, is in [`Urban_Scooter_Project_Summary.pdf`](Urban_Scooter_Project_Summary.pdf).
 ## Results at a Glance
 
 | Area | Test cases | Passed | Failed | Skipped | Bugs reported |
