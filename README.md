@@ -20,8 +20,8 @@ Automated testing of the Urban Routes application using Selenium and Pytest.
 
 **Results:** 8 automated tests passed.
 
-- [View Source Code](automation/)
-- [View Project Documentation](automation/README.md)
+- [View Automation Source Code](automation/)
+- [View Detailed Project Summary](automation/README.md)
 - [Watch Test Automation Demo](https://www.youtube.com/watch?v=pGnAUSi8O0I)
 
 ---
@@ -49,7 +49,7 @@ Tested the Urban Scooter application across web, mobile, and API environments.
 | **Total** | **109** | **77** | **29** | **3** |
 
 - [View Project Summary (PDF)](urban-scooter-qa/Urban_Scooter_Project_Summary.pdf)
-- [View Project Documentation](urban-scooter-qa/README.md)
+- [View Project README](urban-scooter-qa/README.md)
 - [View Test Cases & Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1wVyFged6BfLGgCZzT05uGpz-AAIJJPeVSsDufTOTyM0/edit?usp=sharing)
 
 ---
@@ -77,7 +77,7 @@ API testing of the Urban Grocers application, focusing on request validation, po
 | **Total** | **71** | **35** | **36** |
 
 - [View Project Summary (PDF)](urban-grocers-api-testing/Urban_Grocers_API_Testing.pdf)
-- [View Project Documentation](urban-grocers-api-testing/README.md)
+- [View Project README](urban-grocers-api-testing/README.md)
 - [View Test Cases & Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1nli_9__ca63m2QNUNBTMO1zkod3_ACSSJDeliMh9iR0/edit?usp=sharing)
 
 ---
