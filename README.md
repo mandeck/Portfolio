@@ -21,7 +21,7 @@ Automated testing of the Urban Routes application using Selenium and Pytest.
 **Results:** 8 automated tests passed.
 
 - [View Automation Source Code](automation/)
-- [View Detailed Project Summary](automation/README.md)
+- [View Project README](automation/README.md)
 - [Watch Test Automation Demo](https://www.youtube.com/watch?v=pGnAUSi8O0I)
 
 ---
