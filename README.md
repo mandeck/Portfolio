@@ -79,7 +79,6 @@ API testing of the Urban Grocers application, focusing on request validation, po
 - [View Project Summary (PDF)](urban-grocers-api-testing/Urban_Grocers_API_Testing.pdf)
 - [View Project Documentation](urban-grocers-api-testing/README.md)
 - [View Test Cases & Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1nli_9__ca63m2QNUNBTMO1zkod3_ACSSJDeliMh9iR0/edit?usp=sharing)
-- [View Test Cases & Results (Excel)](urban-grocers-api-testing/test-cases/Urban_Grocers_API_Test_Cases_and_Results.xlsx)
 
 ---
 
