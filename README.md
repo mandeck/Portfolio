@@ -101,5 +101,5 @@ Completed the TripleTen QA Engineer program, gaining practical experience in man
 
 ## Contact
 
-- **LinkedIn:** [Michael Andeck](https://www.linkedin.com/in/mandeck/)
+- **LinkedIn:** [linkedin.com/in/mandeck/](https://www.linkedin.com/in/mandeck/)
 - **Email:** mikeandeck@gmail.com
