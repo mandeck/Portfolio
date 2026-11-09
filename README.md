@@ -1,6 +1,6 @@
 # Michael Andeck | QA Engineer Portfolio
 
-Mechanical Engineering graduate transitioning into Quality Assurance, with hands-on training in manual testing, API testing, and test automation through the TripleTen QA Engineer program.
+Engineer with a B.S. in Mechanical Engineering from UC San Diego and hands-on test and validation experience in aerospace, transitioning into Quality Assurance through the TripleTen QA Engineer program, with training in manual testing, API testing, and test automation.
 
 This portfolio showcases practical testing projects, test documentation, and automation work.
 
