@@ -51,7 +51,6 @@ Tested the Urban Scooter application across web, mobile, and API environments.
 - [View Project Summary (PDF)](urban-scooter-qa/Urban_Scooter_Project_Summary.pdf)
 - [View Project Documentation](urban-scooter-qa/README.md)
 - [View Test Cases & Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1wVyFged6BfLGgCZzT05uGpz-AAIJJPeVSsDufTOTyM0/edit?usp=sharing)
-- [View Test Cases & Results (Excel)](urban-scooter-qa/test-cases/UrbanScooter_QA_Test_Cases.xlsx)
 
 ---
 
