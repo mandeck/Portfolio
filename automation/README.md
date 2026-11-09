@@ -67,3 +67,4 @@ A brief fixed delay was used in the recorded demonstration to make application i
 **8 automated tests passed.**
 
 *This project was completed as part of the TripleTen QA Engineering program.*
+
