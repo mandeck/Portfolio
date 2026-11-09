@@ -1,6 +1,6 @@
 # Michael Andeck | QA Engineer Portfolio
 
-Engineer with a B.S. in Mechanical Engineering from UC San Diego and hands-on test and validation experience in aerospace, transitioning into Quality Assurance through the TripleTen QA Engineer program, with training in manual testing, API testing, and test automation.
+Bilingual (English/Spanish) mechanical engineer (B.S., UC San Diego) with hands-on test and validation experience in aerospace, transitioning into Quality Assurance. Completed the TripleTen QA Engineer program, with training in manual testing, API testing, and test automation.
 
 This portfolio showcases practical testing projects, test documentation, and automation work.
 
@@ -95,9 +95,9 @@ API testing of the Urban Grocers application, focusing on request validation, po
 
 ## Professional Background
 
-Bachelor's degree in Mechanical Engineering with previous engineering experience, including load testing and validation of helicopter safety products in support of airworthiness certification.
+Before moving into QA, I worked as an engineer in aerospace test and validation. At DART Aerospace I worked on helicopter safety products: designing load-testing tools and test protocols, validating products against requirements, and maintaining the documentation that supported airworthiness certification. Earlier, at Scripps Institution of Oceanography, I automated hydraulic pressure-test systems in LabVIEW.
 
-Completed the TripleTen QA Engineer program, gaining practical experience in manual testing, API testing, test documentation, and automation.
+The TripleTen QA Engineer program added the QA side: manual testing, API testing with Postman, bug reporting in Jira, test documentation, and test automation with Python and Selenium.
 
 ## Contact
 
